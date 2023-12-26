@@ -1,6 +1,6 @@
-# Qtify - A Spotify Clone
+# QTify - A Spotify Clone
 
-Qtify is a web application that serves as a clone of Spotify, providing users with a platform to discover, listen to, and organize their favorite music.
+QTify is a web application that serves as a clone of Spotify, providing users with a platform to discover, listen to, and organize their favorite music.
 
 ## Features
 
@@ -13,7 +13,7 @@ Qtify is a web application that serves as a clone of Spotify, providing users wi
 
 ## Getting Started
 
-Follow these steps to get a copy of the Qtify project up and running on your local machine.
+Follow these steps to get a copy of the QTify project up and running on your local machine.
 
 ### Prerequisites
 
